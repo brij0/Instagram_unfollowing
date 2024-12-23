@@ -64,3 +64,28 @@ To set up and run the project locally, follow these steps:
 1. **To Unfollow Users**:
    ```bash
    python Instagram_Unfollow.py
+
+## Contributing
+
+Contributions to this project are welcome! Follow these steps:
+
+1. Fork the repository.
+2. Create a new feature branch: `git checkout -b feature-branch`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-branch`.
+5. Submit a pull request.
+
+Please ensure that your code follows best practices and is well documented.
+
+## GitHub
+
+You can find the repository and more projects at my GitHub profile:
+
+- brij0's [GitHub Profile](https://github.com/brij0/)
+
+## Contact
+
+Feel free to reach out for any questions, feedback, or collaborations:
+
+- Email: bthakrar@uoguelph.ca
+
