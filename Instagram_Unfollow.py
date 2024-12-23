@@ -256,3 +256,4 @@ if __name__ == "__main__":
     unfollow_list = unfollow_people()
     print(f"Unfollowed {len(unfollow_list)} users")
     
+# https://github.com/brij0/Instagram_unfollow
