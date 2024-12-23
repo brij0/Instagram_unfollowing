@@ -1,0 +1,7 @@
+2024-12-19 20:42:25,765 - Error loading JSON file connections/followers_and_following/following.json: unhashable type: 'slice'
+2024-12-19 20:42:25,766 - Failed to load followers or following data. Exiting.
+2024-12-19 20:46:51,387 - Failed to load followers or following data. Exiting.
+2024-12-19 21:51:23,232 - https://i.instagram.com/api/v1/launcher/sync/
+2024-12-19 21:51:23,639 - brije [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2024-12-19 21:51:23,902 - https://i.instagram.com/api/v1/accounts/login/
+2024-12-19 21:51:26,262 - brije [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
