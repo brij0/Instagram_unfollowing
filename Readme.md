@@ -14,8 +14,8 @@
 - [Tests](#tests)
 - [License](#license)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/brij0/Instagram_unfollow?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/brij0/Instagram_unfollow?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/brij0/Instagram_unfollowing?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/brij0/Instagram_unfollowing?style=plastic)
 
 ## Description
 This project automates Instagram activities such as following, unfollowing, and identifying potential users to connect with based on activity data. It uses `SeleniumBase` for browser automation, processes data with `BeautifulSoup`, and handles JSON and CSV files for efficient data storage and retrieval.
