@@ -10,9 +10,6 @@
 - [Contributing](#contributing)
 - [GitHub](#github)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [Tests](#tests)
-- [License](#license)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/brij0/Instagram_unfollowing?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/brij0/Instagram_unfollowing?style=plastic)
